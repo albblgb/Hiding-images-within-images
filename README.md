@@ -36,8 +36,8 @@ By [MAS Lab](http://buaamc2.net/) @ [Fudan University](http://ev.buaa.edu.cn/).
 2. Run `python *net.py`
 ---
 - Here we provide [trained models](https://drive.google.com/drive/folders/1lM9ED7uzWYeznXSWKg4mgf7Xc7wjjm8Q?usp=sharing).,
-- The processed images, such as stego image and recovered secret image, will be saved at 'results/images'
-- The training or testing log will be saved at 'results/*.log'
+- The processed images, such as stego image and recovered secret image, will be saved at `results/images`
+- The training or testing log will be saved at `results/*.log`
 
 
 ## Dataset
