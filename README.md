@@ -19,22 +19,25 @@ By [MAS Lab](http://buaamc2.net/) @ [Fudan University](http://ev.buaa.edu.cn/).
 
 
 ## Get Started
-- If train, change the code in `config.py`
+#### Training
+- change the code in `config.py`
 
     `line4:  mode = 'train' ` 
 
 - Then run `python *net.py`, for example, `python wengnet.py`
 
+#### Testing 
+(Here we provide [trained models](https://drive.google.com/drive/folders/1lM9ED7uzWYeznXSWKg4mgf7Xc7wjjm8Q?usp=sharing).),
 
-- If test (Here we provide [trained models](https://drive.google.com/drive/folders/1lM9ED7uzWYeznXSWKg4mgf7Xc7wjjm8Q?usp=sharing).), change the code in `config.py`
+- change the code in `config.py`
 
     `line4:  mode = 'test' `
   
     `line36-41:  test_*net_path = '' `
-
+  
 - Then run `python *net.py`
 
-
+---
 - The processed images, such as stego image and recovered secret image, will be saved at 'results/images'
 - The training or testing log will be saved at 'results/*.log'
 
