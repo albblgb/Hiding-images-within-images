@@ -8,9 +8,6 @@ This repository is the official code for pusnet and the reproduced code for balu
 Published on [**ACM MM 2023**](http://iccv2021.thecvf.com/home).
 By [MAS Lab](http://buaamc2.net/) @ [Fudan University](http://ev.buaa.edu.cn/).
 
-<center>
-  <img src=https://github.com/TomTomTommi/HiNet/blob/main/HiNet.png width=60% />
-</center>
  
 ## Dependencies and Installation
 - Python 3.8.13, PyTorch = 1.11.0
