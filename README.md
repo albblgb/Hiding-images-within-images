@@ -54,31 +54,16 @@ By [MAS Lab](http://buaamc2.net/) @ [Fudan University](http://ev.buaa.edu.cn/).
 - Structure of the dataset directory:
     data_dir
   
-    |--- div2k
-  
-        |--- train
-  
-            |--- 0001.png
-  
-            |--- 0002.png
-  
-            |...
-  
-        |--- test
-  
-            |--- 0001.png
-  
-            |--- 0002.png
-  
-            |...
-  
-    |--- coco
-  
-        |...
+> div2k
+>> train
+>>> 0001.png
+>>> 0001.png
+>>> ...
+>> test
+>>> 0001.png
+>>> 0001.png
+>>> ...
 
-    |--- imagenet
-  
-        |...
 
     
 
