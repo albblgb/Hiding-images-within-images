@@ -1,5 +1,5 @@
 # pusnet
-This repository is the official code for pusnet and the reproduced code for balujanet, hidden, wengnet and hinet (hiding images rather than random bits).
+This repository is the official code for pusnet and the reproduced code for balujanet, hidden, wengnet and hinet (hiding images within images).
 
 * [**Purified and Unified Steganographic Network.**](https://openaccess.thecvf.com/content/ICCV2021/html/Jing_HiNet_Deep_Image_Hiding_by_Invertible_Network_ICCV_2021_paper.html) 
   * [*Guobiao Li*](https://tomtomtommi.github.io/), [*Sheng Li*](http://www.commsp.ee.ic.ac.uk/~xindeng/), [*Zicong Luo*](http://shi.buaa.edu.cn/MaiXu/zh_CN/index.htm), [*Zhengxing Qian*](http://buaamc2.net/html/Members/jianyiwang.html), [*XinPeng Zhang*](http://cst.buaa.edu.cn/info/1071/2542.htm).
@@ -34,7 +34,7 @@ By [MAS Lab](http://buaamc2.net/) @ [Fudan University](http://ev.buaa.edu.cn/).
     `line36-41:  test_*net_path = '' `
   
 2. Run `python *net.py`
----
+
 - Here we provide [trained models](https://drive.google.com/drive/folders/1lM9ED7uzWYeznXSWKg4mgf7Xc7wjjm8Q?usp=sharing).,
 - The processed images, such as stego image and recovered secret image, will be saved at `results/images`
 - The training or testing log will be saved at `results/*.log`
