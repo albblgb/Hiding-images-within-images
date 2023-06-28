@@ -173,7 +173,7 @@ else:
                 for data in test_loader:
                     data = data.cuda()
                     secret = data[data.shape[0]//2:]
-                    over = data[:data.shape[0]//2]
+                    cover = data[:data.shape[0]//2]
 
                     ################## forward ####################
                     stego, secret_rev = model(secret, cover)
