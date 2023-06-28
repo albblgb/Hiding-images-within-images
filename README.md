@@ -46,26 +46,16 @@ By [MAS Lab](http://buaamc2.net/) @ [Fudan University](http://ev.buaa.edu.cn/).
 
 - For train or test on the dataset,  e.g.  DIV2K, change the code in `config.py`:
 
-    `line17:  data_dir = '' ` 
+    `line17:  data_dir = '' `
+  
     `data_name_train = 'div2k'`
+  
     `data_name_test = 'div2k'`
+  
     `line30:  suffix = 'png' `
 
 - Structure of the dataset directory:
-    data_dir
-  
-> div2k
->> train
->>> 0001.png
->>> 0001.png
->>> ...
->> test
->>> 0001.png
->>> 0001.png
->>> ...
 
-
-    
 
 ## Others
 - The `batch_size` in `config.py` should be at least `2*number of gpus` and it should be divisible by number of gpus.
