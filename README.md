@@ -1,4 +1,4 @@
-# HiNet: Deep Image Hiding by Invertible Network
+# Purified and Unified Steganographic Network
 This repository is the official code for pusnet and the reproduced code for balujanet, hidden, wengnet and hinet (hiding images within images).
 
 * [**HiNet: Deep Image Hiding by Invertible Network.**](https://openaccess.thecvf.com/content/ICCV2021/html/Jing_HiNet_Deep_Image_Hiding_by_Invertible_Network_ICCV_2021_paper.html) 
@@ -57,7 +57,7 @@ By [MAS Lab](http://buaamc2.net/) @ [Fudan University](http://ev.buaa.edu.cn/).
 - Structure of the dataset directory:
 
 <center>
-  <img src=https://github.com/TomTomTommi/HiNet/blob/main/HiNet.png width=60% />
+  <img src=https://github.com/albblgb/pusnet/blob/main/utils/folder_structure.png width=60% />
 </center>
  
     
