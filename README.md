@@ -1,5 +1,5 @@
 # Pusnet
-This repository is the official code for pusnet and the reproduced code for balujanet, hidden, wengnet and hinet (hiding images within images).
+This repository is the official code for pusnet and the reproduced code for balujanet, hidden, wengnet and hinet.
 
 
 ## Dependencies and Installation
