@@ -1,12 +1,8 @@
 # Pusnet
 This repository is the official code for pusnet and the reproduced code for balujanet, hidden, wengnet and hinet.
 
-* [**Purified and Unified Steganographic Network.**](https://openaccess.thecvf.com/content/ICCV2021/html/Jing_HiNet_Deep_Image_Hiding_by_Invertible_Network_ICCV_2021_paper.html) 
-  * [*Guobiao Li*](https://tomtomtommi.github.io/), [*Sheng Li*](http://www.commsp.ee.ic.ac.uk/~xindeng/), [*Zicong Luo*](http://shi.buaa.edu.cn/MaiXu/zh_CN/index.htm), [*Zhengxing Qian*](http://buaamc2.net/html/Members/jianyiwang.html), [*XinPeng Zhang*](http://cst.buaa.edu.cn/info/1071/2542.htm). 
+- Purified and Unified Steganographic Network
     
-:Published on [**ACM MM 2023**](http://iccv2021.thecvf.com/home).
-By [MAS Lab](http://buaamc2.net/) @ [Fudan University](http://ev.buaa.edu.cn/).
-
 #### List of reproduced papers
 - balujanet: [**Hiding images within images.**](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8654686) 
 - hidden: [**HiDDeN: Hiding Data With Deep Networks.**](https://openaccess.thecvf.com/content_ECCV_2018/html/Jiren_Zhu_HiDDeN_Hiding_Data_ECCV_2018_paper.html)
