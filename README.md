@@ -1,7 +1,5 @@
 # Pusnet
-This repository is the official code for pusnet and the reproduced code for balujanet, hidden, wengnet and hinet.
-
-- Purified and Unified Steganographic Network
+This repository is the official code for 'Purified and Unified Steganographic Network'.
     
 #### List of reproduced papers
 - balujanet: [**Hiding images within images.**](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8654686) 
