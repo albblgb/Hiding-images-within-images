@@ -63,8 +63,3 @@ This repository is the official code for 'Purified and Unified Steganographic Ne
 ## Others
 - The `batch_size` in `config.py` should be at least `2*number of gpus` and it should be divisible by number of gpus.
 
-## Citation
-If you find our paper or code useful for your research, please cite:
-```
-
-```
