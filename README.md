@@ -1,6 +1,5 @@
 # Pusnet
-This repository is the official code for 'Purified and Unified Steganographic Network'.
-    
+This repo reproduces several works on steganography, where secret images are hidden within cover images.
 #### List of reproduced papers
 - balujanet: [**Hiding images within images.**](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8654686) 
 - hidden: [**HiDDeN: Hiding Data With Deep Networks.**](https://openaccess.thecvf.com/content_ECCV_2018/html/Jiren_Zhu_HiDDeN_Hiding_Data_ECCV_2018_paper.html)
