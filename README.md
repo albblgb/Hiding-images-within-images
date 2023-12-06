@@ -1,4 +1,4 @@
-# Pusnet
+
 This repo reproduces several works on steganography, where secret images are hidden within cover images.
 #### List of reproduced papers
 - balujanet: [**Hiding images within images.**](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8654686) 
