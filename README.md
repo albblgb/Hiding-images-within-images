@@ -61,4 +61,5 @@ This repo reproduces several works on steganography, where secret images are hid
     
 ## Others
 - The `batch_size` in `config.py` should be at least `2*number of gpus` and it should be divisible by number of gpus.
+- The network-generated images are quantified before the evaluation. 
 
